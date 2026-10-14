@@ -28,7 +28,7 @@ Termux is an *Android terminal emulator* and **Linux environment** app that work
 
 ### How To install termux?
 
-You can install termux form github or from f-droid.(Google Play store version is outdated) <br />
+You can install termux from Github or from F-Droid.(Google Play store version is outdated) <br />
 
 - Get it on [Github](https://github.com/termux/termux-app)
 - Download from [F-Droid](https://f-droid.org/packages/com.termux/) <br />
@@ -37,7 +37,7 @@ More information about installation is [here](https://wiki.termux.com/wiki/Main_
 
 ### Preparation
 
-Install `Termux` & `Termux:API` on your phone. It's recommended to install *Termux API* application as many desktop elements are dependent on it.
+Install `Termux` & `Termux:API` on your phone. It's neccesary to install *Termux API* application as many desktop elements are dependent on it.
 
 > This setup is created and tested on :
 >
@@ -259,9 +259,9 @@ You can install additional tools for termux, to make it visually look good.
 
 ### FYI
 
-- If you face any problem or get any error, you can create an issue & i'll try to help.
+- If you face any problem or get any error, you can create an issue & I'll try to help.
 - Edit `~/.local/bin/email` and put your Email ID and Password (Use an App password) to show unread mails on polybar.
 - You may need to edit some config files accoring to your need (`~/.mutt/muttrc`, `~/.gitconfig`)
-- Don't Email or DM me to ask how to hack, I ain't a Hacker. 
+- Don't Email or DM me to ask how to hack, I am not a Hacker. 
 - Have Fun, Share this repository with your friends.
 
