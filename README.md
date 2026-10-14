@@ -20,8 +20,7 @@ Alright, Lets just get this straight, these are just some **dotfiles** & **scrip
 |Openbox WM|Another Style|
 |--|--|
 |![desktop](./previews/main_1.png)|![desktop](./previews/main_2.png)|
-
-Lets start from the beginning... <br />
+ 
 
 ### What is termux?
 
@@ -29,7 +28,7 @@ Termux is an *Android terminal emulator* and **Linux environment** app that work
 
 ### How To install termux?
 
-You can install termux form google play store or from f-droid. <br />
+You can install termux form github or from f-droid.(Google Play store version is outdated) <br />
 
 - Get it on [Github](https://github.com/termux/termux-app)
 - Download from [F-Droid](https://f-droid.org/packages/com.termux/) <br />
