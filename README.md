@@ -41,8 +41,8 @@ Install `Termux` & `Termux:API` on your phone. It's recommended to install *Term
 
 > This setup is created and tested on :
 >
-> Device - **Redmi Note 9 Pro** <br />
-> Android - **Android 10 (Q)** <br />
+> Device - **Vivo v50** <br />
+> Android - **Android 16** <br />
 > CPU Type - **aarch64**
 
 ### Installation
@@ -56,7 +56,7 @@ pkg upgrade && pkg install git
 
 - Clone this repository
 ```
-git clone --depth=1 https://github.com/adi1090x/termux-desktop.git
+git clone --depth=1 https://github.com/ASTERICTICS/termux-desktop-fixed.git
 ```
 
 > **Warning** : I'm assuming that you're doing this on a fresh termux install. If not, I'll suggest you to do so. However the `setup.sh` script backup every file it replace, It's still recommended that you manually backup your files in order to avoid conflicts. <br />
