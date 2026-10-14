@@ -1,6 +1,6 @@
-**`LAST Updated`** : `August 2023`
+**`LAST Updated`** : `October 2026`
 
-> Unmaintained : Due to Termux not working properly on new Android versions and also Termux not getting maintained properly.
+> Revived : Due to the orignal Project getting discountinued (NOTE : LEAFPAD HAS BEEN REMOVED BUT YOU CAN STILL INSTALL IT).
 
 ---
 
