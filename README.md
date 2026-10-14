@@ -63,7 +63,7 @@ git clone --depth=1 https://github.com/ASTERICTICS/termux-desktop-fixed.git
 
 - Change to cloned directory and run `setup.sh` with *--install* option
 ```
-cd termux-desktop
+cd termux-desktop-fixed
 chmod +x setup.sh
 ./setup.sh --install
 ```
