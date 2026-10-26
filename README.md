@@ -1,6 +1,6 @@
 **`LAST Updated`** : `October 2026`
 
-> Revived : Due to the orignal Project getting discountinued (NOTE : LEAFPAD HAS BEEN REMOVED BUT YOU CAN STILL INSTALL IT).
+> Revived : Due to the orignal Project getting discountinued.
 
 ---
 
@@ -115,7 +115,7 @@ Log file is /data/data/com.termux/files/home/.vnc/localhost:1.log
 
 ### Uninstallation
 
-If you ever want to uninstall Termux Desktop, just run `setup.sh` with *--uninstall* option. Just keep the `setup.sh` script and delete the cloned repository to save space. I'll create a separate uninstaller script later. The command below will remove all the packages and delete all the config files it installed, including the changes you've made. So, Be careful there...
+If you ever want to uninstall Termux Desktop, just run `setup.sh` with *--uninstall* option. Just keep the `setup.sh` script and delete the cloned repository to save space. The command below will remove all the packages and delete all the config files it installed, including the changes you've made.
 ```
 ./setup.sh --uninstall
 ```
@@ -132,7 +132,8 @@ Address:
 127.0.0.1:5901
 
 Name:
-Termux
+Termux (Or anything else, It's your choice)
+(Note : If you're trying to connect with another device ie. by running this on a phone and trying to connect with a tablet, use your IP instead of localhost/127.0.0.1)
 ```
 Now launch it. You will be prompted for `password` that you entered during installation. After entering password, you'll be headed directly to this desktop - <br />
 
@@ -182,7 +183,7 @@ There are total *Eight different styles/themes* available in this setup. To chan
 
 ### Applications of `Termux Desktop`
 
-Well, These are some ideas or things you can do with termux desktop. From Learning coding to Penetration testing, Chatting over IRC to Browsing web and Downloading file, Playing classic retro games to run Windows from 90s. 
+Well, These are some ideas or things you can do with termux desktop. From Learning coding to Penetration testing, Chatting over IRC to Browsing web and Downloading file, Playing classic retro games to running DOS-Based Windows versions. 
 
 - Learn and practice you coding skill without having a laptop
 
@@ -260,8 +261,6 @@ You can install additional tools for termux, to make it visually look good.
 ### FYI
 
 - If you face any problem or get any error, you can create an issue & I'll try to help.
-- Edit `~/.local/bin/email` and put your Email ID and Password (Use an App password) to show unread mails on polybar.
 - You may need to edit some config files accoring to your need (`~/.mutt/muttrc`, `~/.gitconfig`)
-- Don't Email or DM me to ask how to hack, I am not a Hacker. 
-- Have Fun, Share this repository with your friends.
+
 
