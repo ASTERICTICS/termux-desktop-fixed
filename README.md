@@ -4,7 +4,7 @@
 
 ---
 
-![logo](./previews/logo.png) <br />
+![logo](./previews/newlogo.png) <br />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Maintained%3F-Yes-brightgreen?style=for-the-badge">
