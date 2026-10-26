@@ -122,7 +122,7 @@ If you ever want to uninstall Termux Desktop, just run `setup.sh` with *--uninst
 
 ***VNC Client***
 
-Now you need a VNC client app to connect to server. I'm using this Android VNC client: [VNC Viewer](https://play.google.com/store/apps/details?id=com.realvnc.viewer.android). You can use [TigerVNC](https://tigervnc.org/) if you're trying to connect to server by a computer (Windows or Linux).
+Now you need a VNC client app to connect to server. This is the VNC client used to test this: [VNC Viewer](https://play.google.com/store/apps/details?id=com.realvnc.viewer.android). You can use [TigerVNC](https://tigervnc.org/) if you're trying to connect to server by a computer (Windows or Linux).
 
 Determine port number on which VNC server listens. It can be calculated like this: 5900 + {display number}. So for display 'localhost:1' the port will be 5901. <br />
 
@@ -133,8 +133,9 @@ Address:
 
 Name:
 Termux (Or anything else, It's your choice)
-(Note : If you're trying to connect with another device ie. by running this on a phone and trying to connect with a tablet, use your IP instead of localhost/127.0.0.1)
 ```
+>(Note : If you're trying to connect with another device ie. by running this on a phone and trying to connect with a tablet, use your IP instead of localhost/127.0.0.1)
+
 Now launch it. You will be prompted for `password` that you entered during installation. After entering password, you'll be headed directly to this desktop - <br />
 
 ![desktop](./previews/desk_1.png) <br />
