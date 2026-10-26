@@ -252,12 +252,6 @@ Here's some shortcut keys you want to use to speed up your work. For more, `Righ
 | `C-A-v` | Vim |  | `C-A-r` | Ranger |
 | `C-A-h` | Htop |  | `C-A-n` | Nano |
 
-### Additional Tools
-
-You can install additional tools for termux, to make it visually look good.
-1. [Oh my zsh](https://github.com/adi1090x/termux-omz), Setup zsh with [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) framework. (Already Added in this setup)
-2. [Termux style](https://github.com/adi1090x/termux-style), Change color and fonts in termux.
-
 ### FYI
 
 - If you face any problem or get any error, you can create an issue & I'll try to help.
